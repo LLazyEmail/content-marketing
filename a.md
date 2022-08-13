@@ -1,7 +1,7 @@
 ---
 
 
-Pros MDX
+### Pros MDX
 убираем replacer
 можем подключить Vercel Deploy
 можем начать подключать react components
