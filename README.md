@@ -1,6 +1,6 @@
 # content-marketing
 
-Add publications on 
+Add publications (later) 
 - YC forum
 - Indie hackers
 - Linkedin posts
