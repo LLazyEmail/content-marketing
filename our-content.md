@@ -31,17 +31,20 @@ Cool Newsletters for developers [Part 1]
 - [Exploring Substack for Building Your Newsletter (hackernoon.com)](https://hackernoon.com/exploring-substack-for-building-your-newsletter)
 - [Exploring Substack for Building Your Newsletter (dev.to)](https://dev.to/atherdon/exploring-substack-for-building-your-newsletter-3mlm)
 - [Should You Use Substack for Building Your Newsletter?](https://coding-philosophy.hashnode.dev/should-you-use-substack-for-building-your-newsletter)
+- [Exploring Substack for Building Your Newsletter](https://tealfeed.com/exploring-substack-building-newsletter-fxgtc)
 
 ### How To Create a Curated Email Newsletter That Brings Results for Your Business
 - [How To Create a Curated Email Newsletter That Brings Results for Your Business (dev.to)](https://dev.to/atherdon/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business-41i5)
 - [Email Marketing and How to Curate an Effective Business Newsletter](https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter)
 - [How To Create a Curated Email Newsletter That Brings Results for Your Business (coding-philosophy)](https://coding-philosophy.hashnode.dev/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business)
+- [How To Create a Curated Email Newsletter That Brings Results for Your Business](https://tealfeed.com/create-curated-email-newsletter-brings-results-g3aop)
 
 
 ### Simple Glossary for Non Technies
 - [Simple Glossary for Non Technies (dev.to)](https://dev.to/atherdon/simpe-glossary-for-non-technies-2ph5)
 - [Glossary for Non Technies](https://hackernoon.com/glossary-for-non-technies)
 - [Simple Glossary for Non-Technies (coding-philosophy)](https://coding-philosophy.hashnode.dev/simple-glossary-for-non-technies)
+- [Simple Glossary for Non Technies](https://tealfeed.com/simple-glossary-non-technies-mv7dl)
 
 ### How I created a simple NPM package with basic email templates
 - [How I created a simple NPM package with basic email templates (dev.to)](https://dev.to/atherdon/how-i-created-a-simple-npm-package-with-basic-email-templates-1efo)
@@ -66,6 +69,8 @@ Cool Newsletters for developers [Part 1]
 ### Reading List: Email Marketing Basics
 - [Reading List: Email Marketing Basics (dev.to)](https://dev.to/atherdon/reading-list-email-marketing-basics-59k2)
 - [Reading List: Email Marketing Basics (coding-philosophy)](https://coding-philosophy.hashnode.dev/reading-list-email-marketing-basics)
+- [Reading List: Email Marketing Basics](https://tealfeed.com/reading-list-email-marketing-basics-ut1ad)
+
 
 ### Created a module for markdown RegEx`es
 - [Created a module for markdown RegEx`es](https://dev.to/atherdon/created-a-module-for-markdown-regexes-3a1b)
@@ -76,8 +81,6 @@ Cool Newsletters for developers [Part 1]
 - [5 Reasons to Start a Newsletter](https://coding-philosophy.hashnode.dev/5-reasons-to-start-a-newsletter)
 - [5 Reasons Why Newsletters Should Be Part Of Your Business Strategy](https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy)
 
-[Published on Hackernoon]
-
 [Published on Dev.to]
 
 [Published on Medium]
@@ -87,12 +90,6 @@ Cool Newsletters for developers [Part 1]
 [Published on Hashnode]
 
 [Published on Tealfeed]
-
-
-- [Exploring Substack for Building Your Newsletter](https://tealfeed.com/exploring-substack-building-newsletter-fxgtc)
-- [How To Create a Curated Email Newsletter That Brings Results for Your Business](https://tealfeed.com/create-curated-email-newsletter-brings-results-g3aop)
-- [Simple Glossary for Non Technies](https://tealfeed.com/simple-glossary-non-technies-mv7dl)
-- [Reading List: Email Marketing Basics](https://tealfeed.com/reading-list-email-marketing-basics-ut1ad)
 
 
 [Cool resources for sendin emails](https://coderwall.com/p/bed50q/cool-resources-for-sending-emails)
