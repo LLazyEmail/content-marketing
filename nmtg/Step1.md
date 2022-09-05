@@ -37,8 +37,11 @@ A lot of work was done already, I just need to upgrade my processes.
 
 
 **Resources**:
+
 **Cost**: 
+
 **TimeFrame**:
+
 **Problems**:
 
 
