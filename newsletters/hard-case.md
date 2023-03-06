@@ -63,4 +63,24 @@ side note: кастомніе скрипти могут не работать в
 
 нужен code repository, которий будет собирать информацию вместе.
 
-хороший девелопер будет разбивать код и стили на части, чтобі использовать єто и вконце делать билд.
+хороший девелопер будет разбивать код и стили на части, чтобі использовать єто и вконце делать билд с работающими темплейтами, которіе можно протестировать.
+
+
+также, в зависимости от email transport service. - возможно разніе методі будут использоватьсядля создания HTML.
+
+а тк нам нужна мультиязічность - єто значит что текст должен біть сделан в разніх язіках.
+
+метод хранения картинок тоже очень важен. 
+Есть ли аттачменти то где они хранятся, хотите ли ві exposure online. or share only for a limited number of users, views.
+
+огранизация subscriber lists in a format, that will be useful for importing into your systems.
+probably it will be a csv, but you cant just have onle list that will be used. 
+
+you migh need to have a separate lists, with a different number of cells with a personalization data that is necessry for a different types of program. AND dont forget about a security of those lists and data that is contained there. I.e. dont use slack for sharing those lists ;)
+
+a basic example, you need to have first name, email, some preferences. 
+
+and for sending a message to a customer about some sort of disqount for his profile, you'll need some database id, probably invoice number, pricing plan, etc.
+
+
+
