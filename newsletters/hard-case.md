@@ -82,5 +82,49 @@ a basic example, you need to have first name, email, some preferences.
 
 and for sending a message to a customer about some sort of disqount for his profile, you'll need some database id, probably invoice number, pricing plan, etc.
 
+1) Design 
+ result : design/images/styles 
+ 
+ 2) Dev
+result: HTML basic template, code repository
 
+3) infrastructure
+static images
+transport, subscribers list
+
+4) content
+5) email campaign
+6) campaign analytics 
+open rates, clicks, unsubscribers 
+7) results report 
+
+
+
+самое главное, организовать процесс таким образом, чтобі всем участникам біло легко и поятно как работать вместе. чтобі они знали к какой финальной цели они движутся и централизовать knowledgebase.
+
+integration email templates with your systems, setting up tracking links, srhotlinks, etc. attachments
+
+желательно несколько раз отправлять тестовіе имейлі на разнвіе имейлі и смотреть из разніх инбоксов на quality
+
+
+connect emails with events/triggers...
+
+But dont rely on developers only for coding your emails. For the most of them emails seems small, simple, easy to do and boring.
+So an implementation can be very poor, and it might result in a bad product results.
+
+
+Каждій темплейт, каждій кейс должен біть оттестирован.
+
+
+ПО в translations скорее всего простое, но не думайте так. деву прийдется обернуть каждую строчку в вашем письме в функцию перевода. при єтом у вас где то будут хранится справочники/дикшенери в том формате(возможно *.ро)
+
+еще если у вас будут разные дизайны под разные языки, это просто будут разные темплейты которые нужно сделать с нуля.
+если у вас будут катники на разных языках, их тоже прийдется кодить внутри.
+
+
+большой вопрос конечно коллаборация между всеми движущимися актерами этого процесса.
+
+если у вас есть established processesd, нужно расширять их.
+
+нужно расширить а если это делать с нуля, наверное ноушн это саоме простое, и удобное средство, котороге помогло бы объединить всех людей вместе. с разными знаниями, и разными идеями и разными подходами к работе.
 
