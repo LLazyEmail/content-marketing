@@ -116,3 +116,16 @@ You don’t need to hand $500 a month to an ESP just to send basic HTML to your 
 Embrace micro-tasks. Leverage cheap, raw infrastructure like Amazon SES. Outsource the parts of the job you hate.
 
 And when your manual hacks start showing their limits, automate them, productize them, and keep your workflow as simple as it was always meant to be.
+
+
+---
+
+
+
+What made the difference wasn’t simply fixing a few bugs. It was realizing that our original plan—“just automate the easy stuff”—was the kind of sentence developers say right before losing an entire weekend to a missing semicolon.
+
+We changed the way we thought about the product. The goal was never to recreate Mailchimp with a cheaper price tag, a slightly different shade of blue, and yet another editor nobody asked for. The goal was to eliminate the repetitive work between writing an email and sending it. Every unnecessary click, manual conversion, formatting issue, and asset-management task became a candidate for automation. If a task was boring, repetitive, and technically required, it was probably our problem now.
+
+That meant designing Lazy Email around the way lean teams actually work. Content could remain modular and human-readable instead of being trapped inside a visual editor that fights back every time you press Enter. Developers could keep using familiar tools like Markdown, Git, and Amazon SES, while nontechnical users could benefit from the same infrastructure without touching a terminal—or accidentally deploying something to production. The system needed to preserve flexibility without turning every campaign into a small engineering project with its own roadmap, sprint planning, and emotional-support Slack channel.
+
+More importantly, we learned that productization isn’t about pretending complexity doesn’t exist. It’s about dealing with that complexity somewhere users don’t have to see it. Email compatibility, inline CSS, image paths, formatting edge cases, and delivery infrastructure still matter. A lot. They just shouldn’t demand attention every time someone wants to send a newsletter. That became the core promise of Lazy Email: keep the workflow simple on the surface, handle the difficult work underneath, and spare everyone from debugging a mysterious Outlook rendering issue at 11:47 p.m. on a Friday.
