@@ -1,18 +1,4 @@
-The cool water of the lake was a quiet sanctuary during those few weeks away—a brief, suspended pause from the weight waiting back at the front. The city offered space to breathe, space to walk, and a temporary distance from the war.
 
-On one of those walks along the water's edge, he saw it first: the kite, the lines, the harness, and the pull of the wind across the surface. Being the more athletic of the two, his eyes lit up immediately. "We should try it. We should try it," he urged.
-
-At first, you passed it by. But then came a day defined by a strange, unpredictable mood—the kind that makes you step across a line you normally wouldn't. "Well, let's do it," you said.
-
-He didn't hesitate. "Okay, we'll do it."
-
-Underneath the excitement was a quiet, stark truth he spoke aloud—a truth borne from the reality you both faced: We don't know what will happen when we go back. We live once, so we need to try it.
-
-Over the next few weekends, the lake became a battleground of a very different kind. You spent your share of time taking hard falls, crashing face-first into the spray, while he caught on fast, progressing with every launch. Five or six sessions filled with the bite of the wind, the heavy splash of water, and the rare, unfiltered freedom of learning something new side by side.
-
-Looking back at the photos now, those images hold a deep, quiet weight. It was his last sporting event—the last time he got to fully throw his body and spirit into a sport just for the pure, lighthearted joy of it.
-
-He is gone now, leaving behind two children and a legacy of quiet courage. Your life moves forward, carrying the memory of that wind, that water, and a teammate who reminded you to live fully while there was still time to choose it.
 
 ---
 
