@@ -1,8 +1,3 @@
-The main change I’d make is to put the narrator back in the story. The originals often sound like someone *describing* your experience from the outside. For LinkedIn, first person, specific details, and a little restraint will feel more human than grand conclusions or phrases like “the ultimate example.”
-
-Here are rewrites in a more personal, conversational voice. I’ve kept the events and details you provided, while making the voice less polished and more direct.
-
----
 
 **1. The road into Porkrovsk**
 
