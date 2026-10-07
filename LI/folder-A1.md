@@ -4,15 +4,17 @@ Here are rewrites in a more personal, conversational voice. I’ve kept the even
 
 ---
 
-**1. The road into Bakhmut**
+**1. The road into Porkrovsk**
 
-For a while, there was really only one road into Bakhmut that mattered.
+For a while, there was really only one road into Porkrovsk that mattered most.
 
-Everything moved along it: supplies, people, casualties. Russian drones watched the route, especially the choke point beneath the bridge. In five to seven days, our battalion lost eight or nine vehicles there.
+Everything moved along it: supplies, people, casualties. Russian drones watched the route, especially the choke point beneath the bridge. 
+In five to seven days, our battalion lost eight or nine vehicles there.
 
 And still, every day, two of our cars drove back and forth along that same stretch to reach our team.
 
-I remember watching the wrecks accumulate on the roadside. You knew the drones were watching. You knew what could happen on the next run. And then someone got in the car and went anyway, because the people at the other end needed them.
+I remember watching the wrecks accumulate on the roadside. I knew the drones were watching. I knew what could happen on the next run. 
+And then someone got in the car and went anyway, because the people at the other end needed them.
 
 Before the front shifted, this was just a road we used for ordinary errands—picking up tools and building supplies. Today, that area is occupied. The ordinary version of it feels very far away.
 
@@ -24,11 +26,15 @@ What stays with me most isn’t a dramatic moment. It’s the drivers doing the 
 
 During certification, I found one small way to clear my head: rent a bike and ride toward the river.
 
-The trail led up to a ridge, shaded by trees, with a wide view over the water. It was quiet there—quiet enough to forget, for a little while, how heavy everything else felt.
+The trail led up to a ridge, shaded by trees, with a wide view over the water. 
+It was quiet there—quiet enough to forget, for a little while, how heavy everything else felt.
 
-The land has a long memory. Those bluffs had once been useful to Cossacks watching the river: high ground, cover, and a clear view of the fastest route toward the city. The same features that made the ridge strategically important also make it a beautiful place to stop and catch your breath.
+The land has a long memory. 
+Those bluffs had once been useful to Cossacks watching the river: high ground, cover, and a clear view of the fastest route toward the city.
+The same features that made the ridge strategically important also make it a beautiful place to stop and catch your breath.
 
-I’d ride out, stand at the overlook, and watch the river move below. It’s a strange feeling, being somewhere that has seen so much conflict and finding it peaceful again.
+I’d ride out, stand at the overlook, and watch the river move below.
+It’s a strange feeling, being somewhere that has seen so much conflict and finding it peaceful again.
 
 For a little while, the ridge was just a place to breathe.
 
@@ -46,7 +52,7 @@ There’s a photo from that time where my teammate looks deeply unimpressed with
 
 The next day, I learned another lesson. I was riding with water in my pack and equipment in my left hand when I heard a sharp sound behind me. In a war full of FPV drones, you don’t ignore a sound like that. I turned to check the sky, lost control, and went face-first into the dirt.
 
-The bikes were useful for a while. Then the conditions caught up with them, and we switched to more reliable options.
+The bikes were useful for sometime. Then the conditions caught up with them, and we switched to more reliable options.
 
 Not every good idea survives contact with the field. Sometimes the lesson comes with a mouthful of dirt.
 
@@ -62,7 +68,7 @@ Then three KAB strikes landed nearby.
 
 A shell tore through the window and blew out part of the wall. My first thought was the guy cooking in the kitchen. I ran to check on him. He was alive and unhurt—just badly shaken by how close it had been.
 
-After that, we moved underground for good. Sleeping in a cold dirt shelter suddenly seemed like a fair trade for being below ground.
+After that, we moved underground for good. Sleeping in a  dirt shelter suddenly seemed like a fair trade for being below ground.
 
 When I look at the photos now, I don’t just see a hole in a wall. I remember the few seconds when we didn’t know if everyone was okay—and the relief when we found out.
 
@@ -72,7 +78,7 @@ When I look at the photos now, I don’t just see a hole in a wall. I remember t
 
 A patch on a technician’s sleeve can carry more meaning than you’d expect.
 
-When care packages arrived from across the ocean, they weren’t just supplies. They were a reminder that people far away were thinking about us—and practical help at a time when it mattered. Good cold-weather gear, tourniquets, and solid clothing made a real difference.
+When care packages arrived from across the ocean(ok ok ok - from a Germany), they weren’t just supplies. They were a reminder that people far away were thinking about us—and practical help at a time when it mattered. Good cold-weather gear, tourniquets, and solid clothing made a real difference.
 
 The gear didn’t sit around for long. It went straight to the guys in position, where it was needed.
 
@@ -84,7 +90,7 @@ For him, the patch was a small mark of pride. For me, it was a reminder of the p
 
 **6. Crimea**
 
-I met Ilya—Crimea—after he chose to leave a safe assignment and come to the front.
+I met Ilya aka Crimea — after he chose to leave a safe assignment and come to the front.
 
 We’d both done infantry training in Brittany. The first thing I noticed about him wasn’t his attitude, though. It was his backpack. Mine had the permanent look of mud, dust, and hard use. His British-issue pack looked brand new.
 
