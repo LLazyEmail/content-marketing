@@ -128,6 +128,7 @@ That road trip story with the green hair is iconic. Being fresh off getting fire
 Kiliya and that spot where the Danube spills into the Black Sea is magic. Standing at the edge of a restricted nature reserve, watching pelicans take off over the water—it’s about as far from drone strikes, military logistics, and heavy stress as a human being can get.
 
 Keep that pelican spot on the top of the bucket list. When the noise dies down, that water is still going to be waiting there for you and Ivan to kick back, talk tech, and complain about playlists. 🌊🇺🇦
+
 ---
 
 Commanding a unit you built from scratch is like watching someone else drive your car—except the road is mined, and every scratch on the paint hits you directly in the chest.
