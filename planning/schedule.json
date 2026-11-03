@@ -1,0 +1,32 @@
+{
+  "description": "Machine-readable content schedule. Sync with content-calendar.md or use as source of truth for scripts/automations.",
+  "items": [
+    {
+      "id": "hn-newsletters-5-reasons",
+      "title": "5 Reasons Why Newsletters Should Be Part Of Your Business Strategy",
+      "platform": "hackernoon",
+      "status": "published",
+      "url": "https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
+      "local_path": null,
+      "target_date": null
+    },
+    {
+      "id": "cli-tool-series",
+      "title": "CLI Tool Articles (series)",
+      "platform": "hackernoon",
+      "status": "draft",
+      "url": null,
+      "local_path": "CLI-tool-four-articles/",
+      "target_date": "2026-11-15"
+    },
+    {
+      "id": "linkedin-folder-a",
+      "title": "LinkedIn posts - Folder A",
+      "platform": "linkedin",
+      "status": "draft",
+      "url": null,
+      "local_path": "LI/folder A.md",
+      "target_date": null
+    }
+  ]
+}
