@@ -9,6 +9,7 @@ Central hub for planning, drafting, scheduling, and tracking content for LLazyEm
 - **[Published](published/)** — Links and copies of live content.
 - **[Assets](assets/)** — Images, PDFs, research reports, and media.
 - **[Series](series/)** — Multi-part articles (e.g. CLI tools, newsletters).
+- **[Repo series](articles/repo-series/README.md)** — One long "how it works" article per LLazyEmail repository. The index lists every article, its pull request and status, and the suggested publishing order.
 - **[Unprocessed](unprocessed-content/)** — Raw notes and ideas awaiting triage.
 
 ## Proposed Folder Structure
@@ -32,6 +33,8 @@ content-marketing/
 ├── series/
 │   ├── cli-tool/
 │   └── newsletters-db/
+├── articles/
+│   └── repo-series/            # "How it works" article per repository + sources + index README
 ├── unprocessed-content/
 └── archive/                   # Old or superseded material
 ```
