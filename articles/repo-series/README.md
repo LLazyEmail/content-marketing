@@ -38,7 +38,7 @@ Each article lives in its own branch (`articles/repo-series-<repo>`) and its own
 
 ## Status of every article
 
-Status as of 16 November 2026 (Kyiv time). Every article is a draft in an open draft pull request. None is merged or published yet.
+Status as of 17 November 2026 (Kyiv time). Every article is a draft in an open draft pull request. None is merged or published yet.
 
 | # | Repository | Article | Words | Pull request | Status |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@ Status as of 16 November 2026 (Kyiv time). Every article is a draft in an open d
 | 10 | [template-runtime-display](https://github.com/LLazyEmail/template-runtime-display) | Which Part Broke? How template-runtime-display Turns an HTML Email Into a Debuggable Report | ~3,030 | [#105](https://github.com/LLazyEmail/content-marketing/pull/105) | Draft |
 | 11 | [generate-template](https://github.com/LLazyEmail/generate-template) | Bring Your Own Templates: How generate-template Became the One Place Emails Get Rendered and Written | ~2,780 | [#106](https://github.com/LLazyEmail/content-marketing/pull/106) | Draft |
 | 12 | [email-template-workflows](https://github.com/LLazyEmail/email-template-workflows) | Render Anything, Comment Once: How email-template-workflows Grew From an Email Action Into a Generic One | ~2,530 | [#107](https://github.com/LLazyEmail/content-marketing/pull/107) | Draft |
-| 13 | [assemblya](https://github.com/atherdon/assemblya) | How AssemBLYA works: a bilingual Docusaurus site for a veterans-led hardware project | ~3,350 | [#98](https://github.com/LLazyEmail/content-marketing/pull/98) | Draft |
-| 14 | [fuck-ecoflow](https://github.com/atherdon/fuck-ecoflow) | How fuck-ecoflow works: turning 1,400 phone commits into a documentation site | ~2,890 | [#99](https://github.com/LLazyEmail/content-marketing/pull/99) | Draft |
+| 13 | [email-template-editor-reactjs](https://github.com/LLazyEmail/email-template-editor-reactjs) | Bring Your Own Key: How a Three-Year-Old Tree Editor Became an AI-Assisted Email Builder | ~4,280 | [#112](https://github.com/LLazyEmail/content-marketing/pull/112) | Draft. Dated snapshot: the repo was still changing in mid-November 2026 |
+| 14 | [assemblya](https://github.com/atherdon/assemblya) | How AssemBLYA works: a bilingual Docusaurus site for a veterans-led hardware project | ~3,350 | [#98](https://github.com/LLazyEmail/content-marketing/pull/98) | Draft |
+| 15 | [fuck-ecoflow](https://github.com/atherdon/fuck-ecoflow) | How fuck-ecoflow works: turning 1,400 phone commits into a documentation site | ~2,890 | [#99](https://github.com/LLazyEmail/content-marketing/pull/99) | Draft |
 | — | v-school (**private**) | A Docs Site for a Workshop: How v-school Works | ~2,750 | [v-school #24](https://github.com/LLazyEmail/v-school/pull/24) | Draft, kept in the private repository. Internal only until Arthur decides it can be public |
 
 Word counts are `wc -w` of the article file, including front matter.
@@ -81,11 +82,12 @@ The order tells one story in three parts. First the organization and its shared 
 10. **template-runtime-display: Which Part Broke?** An email shell, a sandboxed live inspector and quality checks for Gmail clipping, plain text and dark mode.
 11. **generate-template: Bring Your Own Templates.** One engine for catalog lookup, payloads, rendering and writing files, plus the HTTP server that wraps it.
 12. **email-template-workflows: Render Anything, Comment Once.** The GitHub Action that renders files on every pull request, and why v3 stopped calling itself an email action.
+13. **email-template-editor-reactjs: Bring Your Own Key.** The visual editor that builds an email as a tree of blocks, with an AI assistant that uses the author's own API key. A dated snapshot: the repo was still changing when the article was written.
 
 ### Part 3: documentation sites on the same tooling
 
-13. **assemblya: How AssemBLYA works.** A bilingual Docusaurus site for a veterans-led hardware project.
-14. **fuck-ecoflow: How fuck-ecoflow works.** Turning 1,400 commits made from a phone into a documentation site.
+14. **assemblya: How AssemBLYA works.** A bilingual Docusaurus site for a veterans-led hardware project.
+15. **fuck-ecoflow: How fuck-ecoflow works.** Turning 1,400 commits made from a phone into a documentation site.
 
 **Not for public publishing yet:** v-school (private repository). Its article stays in [v-school #24](https://github.com/LLazyEmail/v-school/pull/24) until Arthur decides whether it can move here.
 
@@ -101,6 +103,5 @@ The order tells one story in three parts. First the organization and its shared 
 
 Candidates for the next round, judged by recent activity and size:
 
-- [email-template-editor-reactjs](https://github.com/LLazyEmail/email-template-editor-reactjs): a Next.js visual editor with an AI assistant. It was being changed daily when this index was written (63 commits in 90 days, including 16 November 2026), so an article would go stale quickly. Better once the assistant work settles.
 - [generate-template-server](https://github.com/LLazyEmail/generate-template-server): covered as a section of the generate-template article. It could get its own article once the online editor uses it.
 - [amazon-ses-service](https://github.com/LLazyEmail/amazon-ses-service) (10 stars, 1,130 commits) and [react-email-letter-components](https://github.com/LLazyEmail/react-email-letter-components) (868 commits): large, but no commits in the last 90 days.
