@@ -6,19 +6,18 @@ Track posts from idea → draft → ready → published.
 |-------|--------|-------------|------|-------|
 | Bakhmut road / logistics | draft | | drafts/01-bakhmut-road.md | From folder A |
 | River ridge | draft | | drafts/02-river-ridge.md | From folder A |
-| E-bikes experiment | draft | | | From folder A |
-| The house near-miss | draft | | | From folder A / A1 |
-| Care package patch | draft | | | From folder A |
-| Ilya / Crimea | draft | | | From folder A |
-| Yuri in Luhansk 2014 | draft | | | From folder A |
-| Four Kings | draft | | | From folder A |
-| Yogurt in Germany | draft | | | From folder A |
-| Field test ordnance | draft | | | From folder A |
-| 3D replacement part | draft | | | From folder A |
-| 50 States thank-you | ready | | | From folder b |
-| Vladislav driver story | ready | | | From folder b |
-| Gas / Humvee axle | ready | | | From folder b |
-| ... | idea | | | Add more |
+| Vladislav driver | draft | | drafts/vladislav-driver.md | From folder b |
+| 50 States thank-you | ready | | ready/50-states-thank-you.md | From folder b |
+| E-bikes experiment | idea | | | From folder A — extract next |
+| The house near-miss | idea | | | From folder A / A1 |
+| Care package patch | idea | | | From folder A |
+| Ilya / Crimea | idea | | | From folder A |
+| Yuri in Luhansk 2014 | idea | | | From folder A |
+| Four Kings | idea | | | From folder A |
+| Yogurt in Germany | idea | | | From folder A |
+| Field test ordnance | idea | | | From folder A |
+| 3D replacement part | idea | | | From folder A |
+| Gas / Humvee axle | idea | | | From folder b |
 
 ## Weekly Cadence Suggestion
 
