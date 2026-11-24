@@ -1,30 +1,17 @@
-# Simple Post Structure
+# Post Folders — Attack These
 
-One folder = one post. Everything for that post lives together.
+One folder = one post. Polish `post.md` and copy only the matching images into `images/`.
 
-```
-LI/posts/
-├── 01-bakhmut-road/
-│   ├── post.md          # polished text (ready to copy-paste)
-│   └── images/          # only the images that belong to this post
-├── 02-river-ridge/
-│   ├── post.md
-│   └── images/
-└── ...
-```
+| Folder | Title | Status |
+|--------|-------|--------|
+| `01-bakhmut-road/` | Narrowing road into Bakhmut | draft text ready |
+| `02-river-ridge/` | River ridge / history | draft text ready |
+| `03-house-near-miss/` | House near-miss | draft text ready |
+| `04-50-states/` | Thank you to 50 States for Ukraine | ready text |
+| `05-vladislav-driver/` | Vladislav driver story | draft text ready |
+| `06-e-bikes/` | E-bikes experiment | stub |
+| `07-care-package-patch/` | Care package patch | stub |
+| `08-ilya-crimea/` | Ilya / Crimea | stub |
+| `09-yuri-luhansk/` | Yuri in Luhansk 2014 | stub |
 
-## Why this is simpler
-
-- No more grabbing images randomly from the big Dropbox dump.
-- Text and images for one post are in one place.
-- Order is clear: finish one folder, then the next.
-- You open one folder when you're ready to publish.
-
-## How to use
-
-1. Create a numbered folder for the next post you want to polish.
-2. Write the final text in `post.md`.
-3. Copy only the images that belong to it into `images/`.
-4. When both text and images are ready, publish from that folder.
-
-The old `LI/images/` dump and large draft files stay as the source library. This folder is the simplified working area.
+Open any folder and start. Original large files and the big image dump stay as the source library.
