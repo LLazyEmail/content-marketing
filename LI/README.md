@@ -7,6 +7,7 @@ This folder holds LinkedIn post drafts and related material. The goal is to turn
 - `folder A.md` — Collection of longer narrative drafts (military stories, reflections)
 - `folder b.md` — Mix of polished LinkedIn-style posts and stories
 - `folder-A1.md` — Partial structured versions of some stories from folder A
+- `images/` — Stills copied from Dropbox `/13 social-media`, plus [images/VIDEOS.md](images/VIDEOS.md) for the MP4s that stay in Dropbox
 - Originals are preserved — do not delete them
 
 ## Recommended Structure
@@ -23,7 +24,7 @@ LI/
 │   └── ...
 ├── ready/
 ├── published/
-└── images/                  # Place for Dropbox images once moved
+└── images/                  # Stills from Dropbox /13 social-media; videos listed in images/VIDEOS.md
 ```
 
 ## Content Machine Rules
@@ -39,14 +40,14 @@ LI/
    ---
    ```
 3. **Track status** in `calendar.md`.
-4. **Images** — Prefer keeping visuals with the post. Once Dropbox images are moved here, reference them relatively.
+4. **Images** — Prefer keeping stills with the post and reference them relatively from `images/`. Large videos stay in Dropbox; see [images/VIDEOS.md](images/VIDEOS.md).
 5. **Publish cadence** — Aim for 2–3 posts per week. Mix personal stories with insights.
 
 ## Next Steps
 
 - Split large files into individual posts with frontmatter.
 - Add calendar and status tracking.
-- Move or link images from Dropbox into `images/`.
+- Stills from Dropbox `/13 social-media` are already in `images/`. Videos are listed with share links in [images/VIDEOS.md](images/VIDEOS.md).
 - Use templates for new posts.
 
 ---
