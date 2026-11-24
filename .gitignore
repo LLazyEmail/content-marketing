@@ -1,0 +1,7 @@
+# Large videos stay in Dropbox rather than git (GitHub file-size limits).
+# Inventory and share links: LI/images/VIDEOS.md
+# Already-tracked files under LI/images/ are not affected by these patterns.
+*.mp4
+*.MP4
+*.mov
+*.MOV

@@ -8,6 +8,8 @@ Central hub for planning, drafting, scheduling, and tracking content for LLazyEm
 - **[Drafts](drafts/)** — Work-in-progress articles and posts.
 - **[Published](published/)** — Links and copies of live content.
 - **[Assets](assets/)** — Images, PDFs, research reports, and media.
+- **[LinkedIn](LI/README.md)** — LinkedIn drafts, calendar, and stills.
+- **[Social-media videos](LI/images/VIDEOS.md)** — MP4s from Dropbox `/13 social-media`. They stay in Dropbox because the set is 1.58 GiB; this list has a share link for each file.
 - **[Series](series/)** — Multi-part articles (e.g. CLI tools, newsletters).
 - **[Repo series](articles/repo-series/README.md)** — One long "how it works" article per LLazyEmail repository. The index lists every article, its pull request and status, and the suggested publishing order.
 - **[Unprocessed](unprocessed-content/)** — Raw notes and ideas awaiting triage.
