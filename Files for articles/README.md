@@ -3,7 +3,7 @@
 Early drafts and research notes. Preserve all files.
 
 - Best Email Marketing Tools for 2022.md
-- Demand Curve: Tested tactics for growing newsletters.md → promoted to [articles/demand-curve-tested-tactics.md](../articles/demand-curve-tested-tactics.md) (clean filename)
+- ~~Demand Curve: Tested tactics for growing newsletters.md~~ — **removed** (colon in filename broke clone/checkout on Windows). Content lives at [articles/demand-curve-tested-tactics.md](../articles/demand-curve-tested-tactics.md)
 - Email Marketing For eCommerce.md
 - Frontend Development.md
 - Github.md
