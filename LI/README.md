@@ -1,55 +1,42 @@
 # LI — LinkedIn Content Machine
 
-This folder holds LinkedIn post drafts and related material. The goal is to turn it into a reliable content machine for regular posting.
+Simple navigation. Open what you need.
 
-## Current Contents
+## Start here
 
-- `folder A.md` — Collection of longer narrative drafts (military stories, reflections)
-- `folder b.md` — Mix of polished LinkedIn-style posts and stories
-- `folder-A1.md` — Partial structured versions of some stories from folder A
-- `images/` — Stills copied from Dropbox `/13 social-media`, plus [images/VIDEOS.md](images/VIDEOS.md) for the MP4s that stay in Dropbox
-- Originals are preserved — do not delete them
+- **[planning/next.md](planning/next.md)** — what to work on right now
+- **[planning/queue.md](planning/queue.md)** — ordered list of posts
+- **[planning/status-tracker.md](planning/status-tracker.md)** — status of every post
+- **[posts/](posts/)** — one folder per post (text + images)
 
-## Recommended Structure
+## Images
 
-```
-LI/
-├── README.md                 # This file
-├── calendar.md               # Posting schedule and status
-├── templates/
-│   └── post-template.md
-├── drafts/
-│   ├── 01-bakhmut-road.md
-│   ├── 02-river-ridge.md
-│   └── ...
-├── ready/
-├── published/
-└── images/                  # Stills from Dropbox /13 social-media; videos listed in images/VIDEOS.md
-```
+- **[images/](images/)** — big image dump
+- **[images/INDEX.md](images/INDEX.md)** — full list of images
+- **[images/A -/README.md](images/A%20-/README.md)** — previews for A -
+- **[images/B -/README.md](images/B%20-/README.md)** — previews for B -
 
-## Content Machine Rules
+## Guides
 
-1. **Preserve everything** — Never delete original drafts. Copy improved versions into `drafts/` or `ready/`.
-2. **Add frontmatter** to every post:
-   ```yaml
-   ---
-   title: "Short descriptive title"
-   status: draft | ready | published
-   target_date: YYYY-MM-DD
-   tags: [ukraine, logistics, brotherhood]
-   ---
-   ```
-3. **Track status** in `calendar.md`.
-4. **Images** — Prefer keeping stills with the post and reference them relatively from `images/`. Large videos stay in Dropbox; see [images/VIDEOS.md](images/VIDEOS.md).
-5. **Publish cadence** — Aim for 2–3 posts per week. Mix personal stories with insights.
+- **[guides/image-checklist.md](guides/image-checklist.md)** — how to pick images
+- **[image-tips.md](image-tips.md)** — practical tips
+- **[image-pairing.md](image-pairing.md)** — pairing images with posts
+- **[publish-notes.md](publish-notes.md)** — what to do when ready to publish
+- **[hashtags-guide.md](hashtags-guide.md)** — hashtag ideas
+- **[cta-examples.md](cta-examples.md)** — call-to-action examples
 
-## Next Steps
+## Planning & tracking
 
-- Split large files into individual posts with frontmatter.
-- Add calendar and status tracking.
-- Stills from Dropbox `/13 social-media` are already in `images/`. Videos are listed with share links in [images/VIDEOS.md](images/VIDEOS.md).
-- Use templates for new posts.
+- **[planning/](planning/)** — next, queue, status-tracker, calendar, weekly focus
+- **[published.md](published.md)** — live post links
+- **[weekly-focus.md](weekly-focus.md)** — this week’s priorities
+- **[attack-plan.md](attack-plan.md)** — next 3 posts to finish
+
+## Source material (do not delete)
+
+- `folder A.md`, `folder b.md`, `folder-A1.md` — original drafts
+- `drafts/` and `ready/` — earlier extracted versions
 
 ---
 
-*Original files remain in place. This is an upgrade layer on top of existing content.*
+**Rule:** One post folder at a time. Finish text + images, then publish. Originals stay.
