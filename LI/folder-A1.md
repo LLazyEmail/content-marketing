@@ -51,46 +51,4 @@ I put the patch on our lead technician’s sleeve. That felt right. The technici
 
 For him, the patch was a small mark of pride. For me, it was a reminder of the people who helped get useful things into the hands of the people who needed them.
 
----
 
----
-
-**7. Yuri**
-
-
-
----
-
-**8. The Four Kings**
-
-
-
----
-
-**9. Yogurt in Germany**
-
-
----
-
-**10. A field test**
-
-
----
-
-**11. Making the replacement part**
-
-
----
-
-
-When important equipment kept breaking and the factory had no spare parts, we had two choices: accept the delay or try to solve it ourselves.
-
-Yuri and I sat down with the broken components and worked out their shape. We built a 3D model, then sent it to two metal shops to see whether they could make replacements.
-
-They could.
-
-The best part was that we didn’t keep the solution to ourselves. We shared the design so other units facing the same problem could use it too.
-
-It was a simple process: understand what failed, make a replacement, and pass the solution on.
-
-A broken part had become a supply problem. A shared design turned it into something other people could fix too.
