@@ -1,6 +1,5 @@
-# Early in-repo auto-rebase so stacked documentation-actions PRs stay current.
-# Later replaced by actions/auto-rebase + reusable workflow once that PR merges;
-# behaviour of the github-script body stays identical.
+# Uses the real auto-rebase composite action from documentation-actions.
+# See https://github.com/LLazyEmail/documentation-actions/tree/main/actions/auto-rebase
 name: Auto-rebase open PRs
 
 on:
@@ -14,45 +13,20 @@ permissions:
 
 jobs:
   rebase:
+    name: auto-rebase
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: auto-rebase-${{ github.repository }}
+      cancel-in-progress: false
     steps:
       - name: Attempt to update branches of open PRs
-        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        uses: LLazyEmail/documentation-actions/actions/auto-rebase@main
         with:
-          script: |
-            const prs = await github.paginate(github.rest.pulls.list, {
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              per_page: 100
-            });
-
-            for (const pr of prs) {
-              if (pr.mergeable_state === 'behind' || pr.mergeable_state === 'dirty' || pr.mergeable_state === 'unknown') {
-                try {
-                  await github.rest.pulls.updateBranch({
-                    owner: context.repo.owner,
-                    repo: context.repo.repo,
-                    pull_number: pr.number,
-                    expected_head_sha: pr.head.sha
-                  });
-                  console.log(`Updated branch for PR #${pr.number}`);
-                  await github.rest.issues.createComment({
-                    owner: context.repo.owner,
-                    repo: context.repo.repo,
-                    issue_number: pr.number,
-                    body: '✅ Automatically updated this PR branch with the latest changes from main.'
-                  });
-                } catch (err) {
-                  console.log(`Could not update PR #${pr.number}: ${err.message}`);
-                  if (err.status === 403) {
-                    await github.rest.issues.createComment({
-                      owner: context.repo.owner,
-                      repo: context.repo.repo,
-                      issue_number: pr.number,
-                      body: '⚠️ Out of date with main; enable Allow edits from maintainers or rebase.'
-                    }).catch(() => {});
-                  }
-                }
-              }
-            }
+          comment-on-update: true
+          # Uncomment to enable conflict rebasing (force-push with lease)
+          # rebase-conflicts: true
+          # merge-fallback: true
+          # fail-on-conflict: false
+          # conflict-label: has-conflicts
+          github-token: ${{ secrets.GITHUB_TOKEN }}
