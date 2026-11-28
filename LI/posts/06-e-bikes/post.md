@@ -1,6 +1,7 @@
 ---
 title: "E-bikes experiment"
-status: draft
+status: published
+live_url: https://lnkd.in/p/ezVanHBy
 tags: [ukraine, innovation]
 ---
 
@@ -20,4 +21,4 @@ What remains is that quiet snapshot—a testament to constant adaptation, trial 
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![E-bikes experiment](images/IMG_20250912_130706_021.jpg)
