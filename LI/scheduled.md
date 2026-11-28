@@ -12,6 +12,7 @@ When the post actually goes live, move the row to `published.md`, set `status: p
 | 2 | posts/27-patch-short/ | The patch (short) |
 | 3 | posts/05-vladislav-driver/ | Vladislav — the driver who doesn't panic |
 | 4 | posts/14-gas-humvee/ | Gas / Humvee axle |
+| 5 | posts/18-ivan-green-hair/ | Ivan / green hair / Danube |
 
 ## How to mark a post as scheduled
 

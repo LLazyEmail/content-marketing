@@ -18,10 +18,6 @@ Images are shown at a smaller display size (300px) for faster page loading. Clic
 
 <img src="011/IMG_20260512_172606_414.jpg" width="300" alt="IMG_20260512_172606_414.jpg">
 
-## 012
-
-<img src="012/FB_IMG_1786806487566.jpg" width="300" alt="FB_IMG_1786806487566.jpg">
-
 ## 013
 
 <img src="013/IMG_20260426_160557_799.jpg" width="300" alt="IMG_20260426_160557_799.jpg">
