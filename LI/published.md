@@ -12,7 +12,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 6 | | https://lnkd.in/p/ezGjSa8i | |
 | 7 | | https://lnkd.in/p/e-ACccaA | |
 | 8 | posts/06-e-bikes/ | https://lnkd.in/p/ezVanHBy | E-bikes experiment |
-| 9 | | https://lnkd.in/p/ehNZJ9aV | |
+| 9 | posts/01-bakhmut-road/ | https://lnkd.in/p/ehNZJ9aV | The narrowing road into Bakhmut |
 | 10 | | https://lnkd.in/p/ezvf8p94 | |
 
 ## How to mark a post as published

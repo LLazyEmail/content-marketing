@@ -1,6 +1,7 @@
 ---
 title: "The narrowing road into Bakhmut"
-status: draft
+status: published
+live_url: https://lnkd.in/p/ehNZJ9aV
 tags: [ukraine, logistics]
 ---
 
@@ -20,4 +21,5 @@ What remains is the stark memory of what it took to keep a force sustained under
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![The narrowing road into Bakhmut](images/IMG_20250910_213503_044.jpg)
+![The narrowing road into Bakhmut](images/IMG_20250910_213503_444.jpg)
