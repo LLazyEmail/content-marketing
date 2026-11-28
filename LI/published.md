@@ -8,7 +8,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 2 | | https://lnkd.in/p/e4FHJMBe | |
 | 3 | | https://lnkd.in/p/e3qW888g | |
 | 4 | posts/11-yogurt-germany/ | https://lnkd.in/p/eeJbkKch | Yogurt in Germany |
-| 5 | | https://lnkd.in/p/enz-Fi7v | |
+| 5 | posts/10-four-kings/ | https://lnkd.in/p/enz-Fi7v | The Four Kings |
 | 6 | | https://lnkd.in/p/ezGjSa8i | |
 | 7 | | https://lnkd.in/p/e-ACccaA | |
 | 8 | | https://lnkd.in/p/ezVanHBy | |
