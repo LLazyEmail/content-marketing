@@ -11,7 +11,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 5 | posts/10-four-kings/ | https://lnkd.in/p/enz-Fi7v | The Four Kings |
 | 6 | | https://lnkd.in/p/ezGjSa8i | |
 | 7 | | https://lnkd.in/p/e-ACccaA | |
-| 8 | | https://lnkd.in/p/ezVanHBy | |
+| 8 | posts/06-e-bikes/ | https://lnkd.in/p/ezVanHBy | E-bikes experiment |
 | 9 | | https://lnkd.in/p/ehNZJ9aV | |
 | 10 | | https://lnkd.in/p/ezvf8p94 | |
 
