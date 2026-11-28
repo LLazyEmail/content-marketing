@@ -1,6 +1,7 @@
 ---
 title: "The patch (short version)"
-status: draft
+status: scheduled
+live_url:
 tags: [ukraine, logistics]
 ---
 
@@ -18,4 +19,4 @@ For him, the patch was a small mark of pride. For me, it was a reminder of the p
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![IMG_20251008_122303_371.jpg](images/IMG_20251008_122303_371.jpg)
