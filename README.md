@@ -41,6 +41,10 @@ content-marketing/
 └── archive/                   # Old or superseded material
 ```
 
+## CI: auto-rebase open PRs
+
+`.github/workflows/auto-rebase-prs.yml` runs every 6 hours (or by hand) and keeps open PR branches current with `main`. A scheduled run that skips a conflicting PR turns red (`fail-on-skipped-conflicts`) and labels it `has-conflicts`, so a green run no longer hides a merge conflict (as with #163). PRs with failing checks get the `checks-failing` label; check names are read with `GITHUB_TOKEN` (`checks: read` and `statuses: read`). Bot-updated branches will not re-trigger `pull_request` CI until the `AUTO_REBASE_TOKEN` repository secret is set (a fine-grained PAT). Shared action: [`documentation-actions/actions/auto-rebase`](https://github.com/LLazyEmail/documentation-actions/tree/main/actions/auto-rebase).
+
 ## How to Use This Repo
 
 1. **Add a new idea** → Create a note in `unprocessed-content/` or directly in `drafts/`.

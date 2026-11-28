@@ -7,9 +7,14 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# checks + statuses let report-failing-checks name red checks with GITHUB_TOKEN
+# (no AUTO_REBASE_TOKEN needed for names). A PAT is still needed if bot-updated
+# branches should re-trigger pull_request CI.
 permissions:
   contents: write
   pull-requests: write
+  checks: read
+  statuses: read
 
 jobs:
   rebase:
@@ -24,9 +29,15 @@ jobs:
         uses: LLazyEmail/documentation-actions/actions/auto-rebase@main
         with:
           comment-on-update: true
+          # Make PRs this run can't fix visible. A sweep that skips a conflicting
+          # PR turns the run red, the PR gets has-conflicts, and PRs whose checks
+          # are red get a warning, a summary column and the checks-failing label.
+          conflict-label: has-conflicts
+          fail-on-skipped-conflicts: true
+          report-failing-checks: true
+          failing-checks-label: checks-failing
           # Uncomment to enable conflict rebasing (force-push with lease)
           # rebase-conflicts: true
           # merge-fallback: true
           # fail-on-conflict: false
-          # conflict-label: has-conflicts
           github-token: ${{ secrets.GITHUB_TOKEN }}
