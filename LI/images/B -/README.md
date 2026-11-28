@@ -24,7 +24,6 @@ Images are shown at a smaller display size (300px) for faster page loading. Clic
 
 ## 011
 
-<img src="011/IMG_20260512_172605_585.jpg" width="300" alt="IMG_20260512_172605_585.jpg">
 <img src="011/IMG_20260512_172606_414.jpg" width="300" alt="IMG_20260512_172606_414.jpg">
 
 ## 012

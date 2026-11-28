@@ -1,6 +1,7 @@
 ---
 title: "Rostislav / volunteer tech"
-status: draft
+status: published
+live_url: https://lnkd.in/p/eiTsRqU6
 tags: [ukraine, volunteers, tech]
 ---
 
@@ -20,4 +21,4 @@ We aren't just supported by a network of volunteers; we are united as one machin
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![Rostislav](images/IMG_20260512_172605_585.jpg)
