@@ -4,17 +4,17 @@ status: draft
 tags: [ukraine, survival]
 ---
 
-It is a remarkable win that all four of you made it out alive.
+All four of us made it out alive. That still feels like a win.
 
-At first, the house offered a rare, almost home-like setup—a relatively comfortable space to sleep above ground for a few days, using the abandoned spices and dry goods left behind by the owners, while running operations and cooking down in the shelter. Even with the cold seeping through the walls, having a clear separation between a "home" and a work space was a small luxury.
+The house started out almost comfortable. We slept above ground for a few days. The owners had left spices and dry goods behind, so we used those. We ran operations and cooked down in the shelter. The walls were cold, but it was still a small luxury. We had a place that felt like home, separate from the work.
 
-Then the reality of the front caught up. Three KAB precision strikes landing nearby shattered the illusion fast.
+Then the front caught up with us. Three KABs landed nearby. The illusion broke fast.
 
-When one shell flew through the window and the blast broke the wall on the other side of the house, the immediate instinct wasn't fear for yourself—it was a dead sprint to check on the guy cooking in the kitchen. Finding him alive, unharmed, and just completely rattled by the raw shock of a near-miss is the kind of moment that stays etched in your mind forever.
+One shell flew through the window. The blast broke the wall on the other side of the house. My first thought wasn't about myself. I ran to the kitchen to check on the guy who was cooking. He was alive. He was unharmed. He was just completely rattled. That moment stays with me.
 
-After that, the transition was absolute: everyone packed up and moved underground permanently. Sleeping in the cold dirt shelter suddenly felt like a small price to pay for a real roof over your heads against guided bombs.
+After that, we packed up and moved underground for good. Sleeping in a cold dirt shelter suddenly felt like a fair trade. At least we had a real roof against guided bombs.
 
-Looking back at those photos, the hole in the wall isn't just structural damage. It’s the exact line where luck, timing, and survival held together for four people who lived to tell the story.
+Looking at the photos now, the hole in the wall is more than damage. It's the line where luck and timing held. Four of us lived to tell the story.
 
 ## Images
 
