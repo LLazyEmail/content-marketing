@@ -7,7 +7,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 1 | posts/15-rostislav/ | https://lnkd.in/p/eiTsRqU6 | Rostislav / volunteer tech |
 | 2 | | https://lnkd.in/p/e4FHJMBe | |
 | 3 | | https://lnkd.in/p/e3qW888g | |
-| 4 | | https://lnkd.in/p/eeJbkKch | |
+| 4 | posts/11-yogurt-germany/ | https://lnkd.in/p/eeJbkKch | Yogurt in Germany |
 | 5 | | https://lnkd.in/p/enz-Fi7v | |
 | 6 | | https://lnkd.in/p/ezGjSa8i | |
 | 7 | | https://lnkd.in/p/e-ACccaA | |
