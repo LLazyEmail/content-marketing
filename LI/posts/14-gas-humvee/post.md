@@ -1,6 +1,7 @@
 ---
 title: "Gas / Humvee axle"
-status: draft
+status: scheduled
+live_url:
 tags: [ukraine, brotherhood, logistics]
 ---
 
@@ -28,4 +29,4 @@ Command is brutal, Vlad. Stop trying to carry the entire front line on your own 
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![FB_IMG_1766691215999.jpg](images/FB_IMG_1766691215999.jpg)
