@@ -8,5 +8,6 @@ Rules and skills for working inside the LI folder.
 
 ## Other guides
 
+- **[single-post-organization.md](single-post-organization.md)** — Permanent rule for the one-folder-per-post layout (`post.md` + `images/` with `.gitkeep`). Follow this for every new or existing post.
 - [image-checklist.md](image-checklist.md) — how to pick images for a post
 - [how-to-mark-published.md](how-to-mark-published.md) — short human version of the schedule / publish steps
