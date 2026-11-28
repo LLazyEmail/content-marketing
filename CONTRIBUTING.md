@@ -29,6 +29,10 @@ This repository is the source of truth for content planning and drafts.
 - Series: `series/name/01-title.md`
 - Assets: descriptive names, no spaces
 
+## CI
+
+Open PRs are kept current by `.github/workflows/auto-rebase-prs.yml`. If a PR has merge conflicts, that workflow run goes red and the PR is labelled `has-conflicts`. See the README section "CI: auto-rebase open PRs".
+
 ## Tools
 
 - Use the JSON in `planning/schedule.json` if you want to script status updates or generate reports.
