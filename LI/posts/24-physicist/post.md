@@ -16,9 +16,10 @@ But we sat together over barbecue. We talked tech. The old bond was still there.
 
 Wounded veterans in Ukraine, especially in smaller villages, get forgotten. Once the high-stress action ends and a guy is stuck at home with limited mobility, society looks away. That is a harsh truth that does not get talked about enough.
 
-I am building a veteran-led business. It creates real remote or local work so guys like Physicist can use their sharp minds, earn their own money, and stay connected. That work matters.
+I am trying to build a veteran-led "business"(ok, at least make their brains occupied with something). It creates real remote or local work so guys like Physicist can use their sharp minds, earn their own money, and stay connected. That work matters.
 
-I will not give up on him. He took me under his wing when I first joined, back in his gun-running days. He showed me the ropes. Pulling him into my project is not charity. It is paying back a debt of honor. He has a great technical mind. He deserves a real runway to rebuild.
+I will not give up on him. He took me under his wing when I first joined, back in his gun-running days. He showed me the "ropes". Pulling him into my project is not charity. It is paying back a debt of honor. 
+He has a great technical mind. He deserves a real runway to rebuild.
 
 I will keep pushing him. I will keep building the project. Guys like Physicist built the foundation on the front. They belong in the foundation of whatever comes next. 🤝🇺🇦
 
