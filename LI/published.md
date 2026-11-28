@@ -1,18 +1,29 @@
 # Published LinkedIn Posts
 
-| # | Link | Notes |
-|---|------|-------|
-| 1 | https://lnkd.in/p/eiTsRqU6 | |
-| 2 | https://lnkd.in/p/e4FHJMBe | |
-| 3 | https://lnkd.in/p/e3qW888g | |
-| 4 | https://lnkd.in/p/eeJbkKch | |
-| 5 | https://lnkd.in/p/enz-Fi7v | |
-| 6 | https://lnkd.in/p/ezGjSa8i | |
-| 7 | https://lnkd.in/p/e-ACccaA | |
-| 8 | https://lnkd.in/p/ezVanHBy | |
-| 9 | https://lnkd.in/p/ehNZJ9aV | |
-| 10 | https://lnkd.in/p/ezvf8p94 | |
+When you publish a post, add a row here and update the matching `posts/XX-name/post.md` frontmatter to `status: published`.
 
-Add a short note (title or which local folder it came from) when you remember it.
+| # | Local folder | Live link | Notes |
+|---|--------------|-----------|-------|
+| 1 | | https://lnkd.in/p/eiTsRqU6 | |
+| 2 | | https://lnkd.in/p/e4FHJMBe | |
+| 3 | | https://lnkd.in/p/e3qW888g | |
+| 4 | | https://lnkd.in/p/eeJbkKch | |
+| 5 | | https://lnkd.in/p/enz-Fi7v | |
+| 6 | | https://lnkd.in/p/ezGjSa8i | |
+| 7 | | https://lnkd.in/p/e-ACccaA | |
+| 8 | | https://lnkd.in/p/ezVanHBy | |
+| 9 | | https://lnkd.in/p/ehNZJ9aV | |
+| 10 | | https://lnkd.in/p/ezvf8p94 | |
 
-When you publish a new post, add a new row.
+## How to mark a post as published
+
+1. Open the post folder (e.g. `posts/01-bakhmut-road/post.md`).
+2. Change the frontmatter:
+   ```yaml
+   status: published
+   live_url: https://lnkd.in/p/...
+   ```
+3. Add or update the row in this table with the local folder name and the live link.
+4. Update `planning/status-tracker.md` if you use it.
+
+This keeps the live link and the local folder connected so you always know which posts are already out.
