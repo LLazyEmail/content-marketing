@@ -14,6 +14,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 8 | posts/06-e-bikes/ | https://lnkd.in/p/ezVanHBy | E-bikes experiment |
 | 9 | posts/01-bakhmut-road/ | https://lnkd.in/p/ehNZJ9aV | The narrowing road into Bakhmut |
 | 10 | | https://lnkd.in/p/ezvf8p94 | |
+| 11 | posts/13-3d-part/ | | 3D replacement part (add link) |
 
 ## How to mark a post as published
 
