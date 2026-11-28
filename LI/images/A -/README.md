@@ -2,13 +2,6 @@
 
 Images are shown at a smaller display size (300px) for faster page loading. Click any image to open the full version.
 
-## 001
-
-<img src="001/IMG_20250816_110136_962.jpg" width="300" alt="IMG_20250816_110136_962.jpg">
-<img src="001/IMG_20250816_110138_344.jpg" width="300" alt="IMG_20250816_110138_344.jpg">
-<img src="001/IMG_20250816_110140_114.jpg" width="300" alt="IMG_20250816_110140_114.jpg">
-<img src="001/IMG_20250817_163236_716.jpg" width="300" alt="IMG_20250817_163236_716.jpg">
-
 ## 003
 
 <img src="003/IMG_20250824_134555_837.jpg" width="300" alt="IMG_20250824_134555_837.jpg">
