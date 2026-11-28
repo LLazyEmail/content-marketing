@@ -1,15 +1,14 @@
 ---
 title: "Yuri in Luhansk 2014"
-status: idea
+status: published
+live_url: https://lnkd.in/p/ezGjSa8i
 tags: [ukraine, history]
 ---
 
 # Yuri in Luhansk 2014
 
-(Stub — polish from folder A.md)
-
 Yuri’s silhouette in that decade-old photo captures the raw, uncompromising courage of someone who stood in the gap when everything first began to break.
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![Yuri in Luhansk 2014](images/IMG_20260309_113054_202%20(1).jpg)
