@@ -10,7 +10,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 | 4 | posts/11-yogurt-germany/ | https://lnkd.in/p/eeJbkKch | Yogurt in Germany |
 | 5 | posts/10-four-kings/ | https://lnkd.in/p/enz-Fi7v | The Four Kings |
 | 6 | | https://lnkd.in/p/ezGjSa8i | |
-| 7 | | https://lnkd.in/p/e-ACccaA | |
+| 7 | posts/08-ilya-crimea/ | https://lnkd.in/p/e-ACccaA | Ilya / Crimea |
 | 8 | posts/06-e-bikes/ | https://lnkd.in/p/ezVanHBy | E-bikes experiment |
 | 9 | posts/01-bakhmut-road/ | https://lnkd.in/p/ehNZJ9aV | The narrowing road into Bakhmut |
 | 10 | | https://lnkd.in/p/ezvf8p94 | |
