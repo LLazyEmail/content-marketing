@@ -6,23 +6,23 @@ tags: [ukraine, reflection]
 
 # Coffee shop story
 
-That is peak comedic timing courtesy of the universe.
+The universe has peak comedic timing.
 
-You navigate active frontlines, drone strikes, and mud-stuck Humvee axles without breaking a sweat, but a quick trip to Kyiv and you get lost three times in the same neighborhood—only to stumble into a cinematic setup that instantly gets shut down by the coffee grinder of reality.
+I navigate active frontlines, drone strikes, and mud-stuck Humvee axles without breaking a sweat. Then I take a quick trip to Kyiv and get lost three times in the same neighborhood. I stumble into a cinematic setup. Then the coffee grinder of reality shuts it down.
 
-The sequence is classic:
+The sequence was classic.
 
-Lost in Kyiv, low battery, low morale.
+I was lost in Kyiv. Low battery. Low morale.
 
-Find a cozy coffee shop with high-end fashion reads, a friendly face, and a live outlet.
+I found a cozy coffee shop. High-end fashion reads. A friendly face. A live outlet.
 
-Formulate a romantic gesture worthy of a movie script involving flowers.
+I formulated a romantic gesture worthy of a movie script. It involved flowers.
 
-Return the next morning, ready to execute the plan... only to lock eyes with her husband aggressively grinding espresso beans behind the counter.
+I returned the next morning, ready to execute the plan. I locked eyes with her husband. He was aggressively grinding espresso beans behind the counter.
 
-Abort mission, drink the coffee, keep moving.
+Abort mission. Drink the coffee. Keep moving.
 
-Honestly, it's those small, grounding, absurd moments of normal life that hit the hardest when you're passing through the city. Glad you got your power bank charged at least!
+Those small, grounding, absurd moments of normal life hit the hardest when I am passing through the city. At least I got my power bank charged.
 
 ## Images
 
