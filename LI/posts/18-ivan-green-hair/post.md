@@ -1,6 +1,7 @@
 ---
 title: "Ivan / green hair / Danube"
-status: draft
+status: scheduled
+live_url:
 tags: [ukraine, friendship, reflection]
 ---
 
@@ -18,4 +19,4 @@ I am keeping that pelican spot at the top of the bucket list. When the noise die
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![FB_IMG_1786806487566.jpg](images/FB_IMG_1786806487566.jpg)
