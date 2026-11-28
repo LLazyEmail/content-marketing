@@ -6,7 +6,7 @@ When you publish a post, add a row here and update the matching `posts/XX-name/p
 |---|--------------|-----------|-------|
 | 1 | posts/15-rostislav/ | https://lnkd.in/p/eiTsRqU6 | Rostislav / volunteer tech |
 | 2 | | https://lnkd.in/p/e4FHJMBe | |
-| 3 | | https://lnkd.in/p/e3qW888g | |
+| 3 | posts/12-field-test/ | https://lnkd.in/p/e3qW888g | Field test |
 | 4 | posts/11-yogurt-germany/ | https://lnkd.in/p/eeJbkKch | Yogurt in Germany |
 | 5 | posts/10-four-kings/ | https://lnkd.in/p/enz-Fi7v | The Four Kings |
 | 6 | posts/09-yuri-luhansk/ | https://lnkd.in/p/ezGjSa8i | Yuri in Luhansk 2014 |
