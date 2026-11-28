@@ -1,6 +1,7 @@
 ---
 title: "Vladislav — the driver who doesn't panic"
-status: draft
+status: scheduled
+live_url:
 tags: [ukraine, brotherhood, drivers]
 ---
 
@@ -22,4 +23,4 @@ Recognition matters, especially for the guys who quietly carry the heaviest load
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![FB_IMG_1758304106230.jpg](images/FB_IMG_1758304106230.jpg)

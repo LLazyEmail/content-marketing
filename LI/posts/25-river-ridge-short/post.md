@@ -1,6 +1,7 @@
 ---
 title: "The river ridge (short version)"
-status: draft
+status: scheduled
+live_url:
 tags: [ukraine, reflection]
 ---
 
@@ -22,4 +23,5 @@ For a little while, the ridge was just a place to breathe.
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![IMG_20250824_134555_837.jpg](images/IMG_20250824_134555_837.jpg)
+![IMG_20250824_134603_957.jpg](images/IMG_20250824_134603_957.jpg)

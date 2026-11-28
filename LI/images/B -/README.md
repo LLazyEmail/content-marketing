@@ -6,14 +6,6 @@ Images are shown at a smaller display size (300px) for faster page loading. Clic
 
 <img src="006/FB_IMG_1778791301213.jpg" width="300" alt="FB_IMG_1778791301213.jpg">
 
-## 007
-
-<img src="007/FB_IMG_1758304106230.jpg" width="300" alt="FB_IMG_1758304106230.jpg">
-
-## 008
-
-<img src="008/FB_IMG_1766691215999.jpg" width="300" alt="FB_IMG_1766691215999.jpg">
-
 ## 009
 
 <img src="009/FB_IMG_1775058124519.jpg" width="300" alt="FB_IMG_1775058124519.jpg">

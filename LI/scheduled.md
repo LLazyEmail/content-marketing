@@ -8,7 +8,10 @@ When the post actually goes live, move the row to `published.md`, set `status: p
 
 | # | Local folder | Notes |
 |---|--------------|-------|
-| 1 | | |
+| 1 | posts/25-river-ridge-short/ | River ridge (short) |
+| 2 | posts/27-patch-short/ | The patch (short) |
+| 3 | posts/05-vladislav-driver/ | Vladislav — the driver who doesn't panic |
+| 4 | posts/14-gas-humvee/ | Gas / Humvee axle |
 
 ## How to mark a post as scheduled
 
