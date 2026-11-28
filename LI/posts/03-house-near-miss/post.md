@@ -10,7 +10,7 @@ At first, the house offered a rare, almost home-like setup—a relatively comfor
 
 Then the reality of the front caught up. Three KAB precision strikes landing nearby shattered the illusion fast.
 
-When the shell tore through the window and blew out the wall, the immediate instinct wasn't fear for yourself—it was a dead sprint to check on the guy cooking in the kitchen. Finding him alive, unharmed, and just completely rattled by the raw shock of a near-miss is the kind of moment that stays etched in your mind forever.
+When one shell flew through the window and the blast broke the wall on the other side of the house, the immediate instinct wasn't fear for yourself—it was a dead sprint to check on the guy cooking in the kitchen. Finding him alive, unharmed, and just completely rattled by the raw shock of a near-miss is the kind of moment that stays etched in your mind forever.
 
 After that, the transition was absolute: everyone packed up and moved underground permanently. Sleeping in the cold dirt shelter suddenly felt like a small price to pay for a real roof over your heads against guided bombs.
 
