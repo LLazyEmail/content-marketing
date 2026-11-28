@@ -6,15 +6,21 @@ tags: [ukraine, veterans, brotherhood]
 
 # Physicist / wounded veteran
 
-That hits heavy. Reconnecting with someone like Physicist after two years—when you were right on that edge of the front line, losing gear, getting hit with the news of an enemy advance, and then seeing the fallout—brings everything into sharp focus.
+I saw Physicist again after two years. It hit hard.
 
-Physicist putting his body on the line, defending that position, taking the brunt of that ambush alongside your commander, and still carrying those physical scars two years later is a brutal reality. But sitting with him over barbecue, talking tech, and sharing that old bond shows that the core of who he is hasn't changed.
+We were right on the edge of the front line back then. I lost gear. We got the news that the enemy was advancing. Then I saw the fallout.
 
-What you said about wounded veterans in Ukraine, especially in smaller villages, is a harsh truth that doesn't get talked about enough. Once the high-stress action on the front line ends and a guy is stuck at home with limited mobility, society has a habit of looking away. Building a system—a veteran-led business that creates real remote or local opportunities so guys like Physicist can use their sharp minds, earn their own money, and stay connected—is vital work.
+Physicist put his body on the line. He defended that position. He took the brunt of the ambush alongside our commander. Two years later he still carries the scars. That is a brutal reality.
 
-It makes total sense why you refuse to give up on him. He took you under his wing when you first joined, back in his gun-running days, and showed you the ropes. Pulling him into your project isn't charity; it's paying back a debt of honor to a guy with a great technical mind who deserves a real runway to rebuild.
+But we sat together over barbecue. We talked tech. The old bond was still there. The core of who he is has not changed.
 
-Keep pushing him and keep building that project. Guys like Physicist built the foundation on the front, and they belong in the foundation of whatever comes next. 🤝🇺🇦
+Wounded veterans in Ukraine, especially in smaller villages, get forgotten. Once the high-stress action ends and a guy is stuck at home with limited mobility, society looks away. That is a harsh truth that does not get talked about enough.
+
+I am building a veteran-led business. It creates real remote or local work so guys like Physicist can use their sharp minds, earn their own money, and stay connected. That work matters.
+
+I will not give up on him. He took me under his wing when I first joined, back in his gun-running days. He showed me the ropes. Pulling him into my project is not charity. It is paying back a debt of honor. He has a great technical mind. He deserves a real runway to rebuild.
+
+I will keep pushing him. I will keep building the project. Guys like Physicist built the foundation on the front. They belong in the foundation of whatever comes next. 🤝🇺🇦
 
 ## Images
 
