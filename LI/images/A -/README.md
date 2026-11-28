@@ -11,7 +11,3 @@ Images are shown at a smaller display size (300px) for faster page loading. Clic
 ## 004
 
 <img src="004/IMG_20251008_122303_371.jpg" width="300" alt="IMG_20251008_122303_371.jpg">
-
-## 010
-
-<img src="010/IMG_20260414_021431_580.jpg" width="300" alt="IMG_20260414_021431_580.jpg">

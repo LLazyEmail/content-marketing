@@ -1,7 +1,8 @@
 ---
 title: "The 3D replacement part"
-status: draft
-tags: [ukraine, innovation]
+status: published
+live_url: 
+ tags: [ukraine, innovation]
 ---
 
 # The 3D replacement part
@@ -20,4 +21,4 @@ Using raw brainpower to turn a broken piece of factory hardware into a distribut
 
 ## Images
 
-Copy matching photos into the `images/` folder next to this file.
+![3D part](images/IMG_20260414_021431_580.jpg)
